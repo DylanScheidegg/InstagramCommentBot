@@ -3,11 +3,7 @@ Simple Instagram comment bot
 
 /
 
-/
-
 This is writen in Python using Selenium. This took about 24 hours to create(New to python).
-
-/
 
 /
 
@@ -16,8 +12,6 @@ If you want to test this you will need to go into Command Promt and Install TWO 
   pynput: pip install pynput
   
   selenium: pip install -U selenium
-
-/
 
 /
 
