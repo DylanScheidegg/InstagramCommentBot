@@ -16,4 +16,4 @@ If you want to test this you will need to go into Command Promt and Install TWO 
 /
 
 **LEGALLY**
-I do not condone the act of using bots on public forums. This was just a way for me to pass the time on Quarantine.
+I do not condone the act of using bots on public forums. This was just a way for me to pass the time in Quarantine.
